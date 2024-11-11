@@ -2,7 +2,7 @@
 
 ### Car Wash Hub offers premium car care services with a seamless booking system. Easily compare options, schedule appointments, and enjoy top-quality exterior and interior cleaning tailored to your needs.
 
-### Live URL: https://car-wash-zeta-one.vercel.app
+### Live URL: https://car-wash-frontend-gules.vercel.app/
 
 #### Credentials:
 
@@ -54,7 +54,7 @@
 - Clone repository
 
 ```
-git clone https://github.com/shiningsudipto/car-wash.git
+git clone:https://github.com/hasansaik81/level2-ass5-car-wash-main
 ```
 
 - Go to the cloned folder and open terminal
