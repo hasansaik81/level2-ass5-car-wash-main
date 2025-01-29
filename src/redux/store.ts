@@ -1,3 +1,6 @@
+
+
+
 import { configureStore } from "@reduxjs/toolkit";
 import baseApi from "./api/baseAPi.ts";
 import authReducer from "./features/auth/authSlice.ts";
@@ -27,6 +30,8 @@ export const store = configureStore({
     [baseApi.reducerPath]: baseApi.reducer,
     auth: persistedAuthReducer,
     serviceComparison: serviceComparisonReducer,
+
+    
   },
   middleware: (getDefaultMiddleware) =>
     getDefaultMiddleware({
