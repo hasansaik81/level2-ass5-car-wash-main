@@ -5,7 +5,7 @@ const baseApi = createApi({
   baseQuery: fetchBaseQuery({
     
     // baseUrl: "http://localhost:5000/api",
-    baseUrl: "https://level-2-ass-3-server-car-wash.vercel.app/",
+    baseUrl: "https://level-2-ass-3-server-car-wash.vercel.app/api",
     credentials: "include",
     prepareHeaders: (headers, { getState }) => {
       const token = (getState() as RootState).auth.token;
