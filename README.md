@@ -2,7 +2,7 @@
 
 ### Car Wash Hub offers premium car care services with a seamless booking system. Easily compare options, schedule appointments, and enjoy top-quality exterior and interior cleaning tailored to your needs.
 
-### Live URL: https://level2-ass5-car-wash-main-hasansaik81-hasans-projects-3bda48be.vercel.app
+### Live URL: https://level2-ass5-car-wash-main.vercel.app
 #### Credentials:
 
 > user - email :-> cwuser@gmail.com - pass :-> 123456
