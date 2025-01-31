@@ -27,3 +27,4 @@ dist-ssr
 test.js
 
 .vercel
+.env
